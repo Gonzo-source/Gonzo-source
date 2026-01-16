@@ -1,4 +1,4 @@
-<h2 align="center">Gonzo.. A washed Electronics Engineer turned Dev</h2>
+<h2 align="center">Gonzo.. A washed Electronics Engineer, now I code/h2>
 
 ###
 
