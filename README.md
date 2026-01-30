@@ -1,4 +1,4 @@
-<h2 align="center">The name's Edgar. Some call me Gonzo. I code sometimes. New to the scene </h2>
+<h2 align="center">The name's Edgar. Some call me Gonzo. I code sometimes.</h2>
 
 ###
 
